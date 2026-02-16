@@ -58,43 +58,47 @@ Comprender y aplicar conceptos fundamentales de JavaScript moderno en un entorno
 
 ---
 
-## 📂 Estructura del proyecto
+## 📁 Estructura del proyecto
 
-TALLER 1
+```
+TALLER-1-REPASO
 │
-├── public/
-│ └── images/
-│ ├── async.png
-│ ├── callback.png
-│ ├── destructuringObjects.png
-│ ├── logosena.png
-│ └── promise.png
+├── public
+│   ├── images
+│       ├── async.png
+│       ├── callback.png
+│       ├── destructuringObjects.png
+│       ├── logosena.png
+│       └── promise.png
 │
-├── src/
-│ ├── feature/
-│ │ ├── asyncAwait/
-│ │ │ ├── asyncawait.html
-│ │ │ └── asyncawait.js
-│ │ │
-│ │ ├── callback/
-│ │ │ ├── callbacks.html
-│ │ │ └── callbacks.js
-│ │ │
-│ │ ├── destructuringObjects/
-│ │ │ ├── destructuringObjects.html
-│ │ │ └── destructuringObjects.js
-│ │ │
-│ │ └── promise/
-│ │ ├── promises.html
-│ │ └── promises.js
-│ │
-│ └── shared/
-│ └── css/
-│ └── style.css
+├── src
+│   └── feature
+│       ├── asyncAwait
+│       │   ├── asyncawait.html
+│       │   └── asyncawait.js
+│       │
+│       ├── callback
+│       │   ├── callbacks.html
+│       │   └── callbacks.js
+│       │
+│       ├── crud
+│       │   └── crud.js
+│       │
+│       ├── destructuringObjects
+│       │   ├── destructuringObjects.html
+│       │   └── destructuringObjects.js
+│       │
+│       └── promise
+│           ├── promises.html
+│           └── promises.js
 │
-├── crud.html
-├── crud.js
+├── shared
+│   └── css
+│       └── style.css
+│
+├── index.html
 └── readme.md
+```
 
 
 ---
