@@ -64,7 +64,7 @@ Comprender y aplicar conceptos fundamentales de JavaScript moderno en un entorno
 TALLER-1-REPASO
 │
 ├── public
-│   ├── images
+│   └── images
 │       ├── async.png
 │       ├── callback.png
 │       ├── destructuringObjects.png
@@ -72,33 +72,34 @@ TALLER-1-REPASO
 │       └── promise.png
 │
 ├── src
-│   └── feature
-│       ├── asyncAwait
-│       │   ├── asyncawait.html
-│       │   └── asyncawait.js
-│       │
-│       ├── callback
-│       │   ├── callbacks.html
-│       │   └── callbacks.js
-│       │
-│       ├── crud
-│       │   └── crud.js
-│       │
-│       ├── destructuringObjects
-│       │   ├── destructuringObjects.html
-│       │   └── destructuringObjects.js
-│       │
-│       └── promise
-│           ├── promises.html
-│           └── promises.js
-│
-├── shared
-│   └── css
-│       └── style.css
+│   ├── feature
+│   │   ├── asyncAwait
+│   │   │   ├── asyncawait.html
+│   │   │   └── asyncawait.js
+│   │   │
+│   │   ├── callback
+│   │   │   ├── callbacks.html
+│   │   │   └── callbacks.js
+│   │   │
+│   │   ├── crud
+│   │   │   └── crud.js
+│   │   │
+│   │   ├── destructuringObjects
+│   │   │   ├── destructuringObjects.html
+│   │   │   └── destructuringObjects.js
+│   │   │
+│   │   └── promise
+│   │       ├── promises.html
+│   │       └── promises.js
+│   │
+│   └── shared
+│       └── css
+│           └── style.css
 │
 ├── index.html
 └── readme.md
 ```
+
 
 
 ---
